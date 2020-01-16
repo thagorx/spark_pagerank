@@ -11,12 +11,10 @@ the rank in each case is added to alpha and redistributed to the whole graph
 
 # Graphes are expected to look like this:
 
-```
 |origin | destination|
-|-------|------------|
- 1     | 1
- 1     | 3
- 3     | 4
- 2     | 5
- 4     | None
-```
+|---|---|
+| 1     | 1|
+| 1     | 3|
+| 3     | 4|
+| 2     | 5|
+| 4     | None|
